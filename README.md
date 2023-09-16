@@ -1,3 +1,7 @@
+# Author note
+This is a fork of the original UAP to update it to the latest versions of Unity 2021 and 2022.
+Hoping to overcome the WebGL limitations and work towards platform native accessibility support.
+
 # UnityAccessibilityPlugin
 The UI Accessibility Plugin (UAP) allows you to make your UI accessible to blind and visually impaired players on Windows, Android, iOS, Mac and WebGL. 
 Tested in Unity 5.6 to Unity 2020.1.
